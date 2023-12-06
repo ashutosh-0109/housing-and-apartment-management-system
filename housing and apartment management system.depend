@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557290199 source:e:\project\housing and apartment management system\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1623311169 source:e:\mini_project_2k19\housing and apartment management system\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
